@@ -173,6 +173,8 @@ section{
 .home-content p{
     color: #bdbdbd;
     line-height: 1.6;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .info-box{
@@ -336,6 +338,8 @@ section{
     font-weight: 300;
     margin-bottom: 1.5rem;
     font-size: large;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .info-about1,
@@ -449,6 +453,8 @@ img-about span{
     letter-spacing: 1px;
     color: #bdbdbd;
     line-height: 1.6;
+    text-align: justify;
+    text-justify: inter-word;
  }
  /* **************************************************************** */
  .projects{
@@ -525,6 +531,8 @@ img-about span{
     letter-spacing: 1px;
     color: #bdbdbd;
     line-height: 1.6;
+    text-align: justify;
+    text-justify: inter-word;
  }
 
 /* *************************************************************************** */
